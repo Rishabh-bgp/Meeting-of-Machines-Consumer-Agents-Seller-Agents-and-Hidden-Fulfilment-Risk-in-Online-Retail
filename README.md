@@ -1,0 +1,2 @@
+# Meeting-of-Machines-Consumer-Agents-Seller-Agents-and-Hidden-Fulfilment-Risk-in-Online-Retail
+Agentic commerce lets shopping and seller agents place orders without showing operational truth. This IS case argues naive agent matching can lift conversion while hiding fulfilment risk: stale stock, unbooked SLAs, weak identity, listing gaming, and last-mile disputes. A simulation compares human, naive, and governed matching.
