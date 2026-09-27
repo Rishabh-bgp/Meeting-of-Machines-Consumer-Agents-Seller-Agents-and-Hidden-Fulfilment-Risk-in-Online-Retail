@@ -126,7 +126,7 @@ If you use this laboratory in a course or paper:
 
 ```text
 Aryan, R. (2026). Meeting of Machines: Consumer Agents, Seller Agents,
-and Hidden Fulfilment Risk in Online Retail [Jupyter case study].
+and Hidden Fulfilment Risk in Online Retail [Case study]. Github URL: https://github.com/Rishabh-bgp/Meeting-of-Machines-Consumer-Agents-Seller-Agents-and-Hidden-Fulfilment-Risk-in-Online-Retail
 ```
 
 Adjust author line to match the repository owner.
